@@ -1,2 +1,1 @@
-# aws-study
-aws-study
+# aws_study
